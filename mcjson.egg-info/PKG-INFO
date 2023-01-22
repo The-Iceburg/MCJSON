@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: mcjson
+Version: 0.0.1
+Summary: Minecraft Json Generation In Python!
+Home-page: https://github.com/The-Iceburg/MCDataPacker
+Author: The Iceburg
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ![mcdatapackerbanner](https://user-images.githubusercontent.com/67003539/212128378-c981f3dc-ff85-4284-a010-6ce38b4fb19b.png)
+🚧 This product is currently under construction, to know when we launch follow us on [Twitter](https://twitter.com/theiceburg21) 🚧
